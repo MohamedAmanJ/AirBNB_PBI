@@ -1,4 +1,4 @@
-# Power BI Sales Dashboard
+# Power BI AirBNB Dashboard
 
 ## Project Overview
 Interactive Power BI dashboard for sales analysis.
