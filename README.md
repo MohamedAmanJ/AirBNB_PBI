@@ -28,8 +28,6 @@ This Power BI dashboard analyzes Airbnb listings, pricing trends, customer ratin
 ## Dashboard Screenshots
 <img width="1167" height="647" alt="image" src="https://github.com/user-attachments/assets/f1e195ec-f469-4737-aed9-eab3dcfcfcac" />
 <img width="1167" height="646" alt="image" src="https://github.com/user-attachments/assets/945bf4f3-a725-4dd6-8455-2aa667a5db45" />
-<img width="1167" height="648" alt="image" src="https://github.com/user-attachments/assets/3f52a88c-38cb-49c3-b5b0-599ac813101e" />
-<img width="1157" height="647" alt="image" src="https://github.com/user-attachments/assets/2e12b26d-36ef-4bd2-b68c-5ff3f0b5ffe2" />
 
 ## Key Insights
 - Entire home/apartment is the most preferred room type.
